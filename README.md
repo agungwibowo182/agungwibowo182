@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/m-agung-wibowo-221964147/" target="_blank"> M. Agung Wibowo </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+Web+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/m-agung-wibowo-221964147/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/m.agungwibowo182/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/Agungwibowo182"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+   <a href="https://wa.me/6285776767327?text=Hallo%20M.%20Agung%20Wibowo"><img alt="Telegram" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
